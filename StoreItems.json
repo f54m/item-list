@@ -27,19 +27,19 @@
 	{
 		"abr": "arccomposite",
 		"price": 110,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Bow_Recurve"
 	},
 	{
 		"abr": "arccourt",
 		"price": 74,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Bow_Short"
 	},
 	{
 		"abr": "arclong",
 		"price": 154,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Bow_Great"
 	},
 	{
@@ -51,37 +51,37 @@
 	{
 		"abr": "armuredemarine",
 		"price": 3392,
-		"category": "Vêtements",
+		"category": "VÃªtements",
 		"defname": "Apparel_PowerArmor"
 	},
 	{
 		"abr": "armuredeplates",
 		"price": 792,
-		"category": "Vêtements",
+		"category": "VÃªtements",
 		"defname": "Apparel_PlateArmor"
 	},
 	{
 		"abr": "artefactdefolie",
 		"price": 1083,
-		"category": "Artéfacts",
+		"category": "ArtÃ©facts",
 		"defname": "PsychicInsanityLance"
 	},
 	{
 		"abr": "artefactdeperturbationpsychique",
 		"price": 917,
-		"category": "Artéfacts",
+		"category": "ArtÃ©facts",
 		"defname": "PsychicShockLance"
 	},
 	{
 		"abr": "artefactd'impulsionanimale",
 		"price": 1167,
-		"category": "Artéfacts",
+		"category": "ArtÃ©facts",
 		"defname": "PsychicAnimalPulser"
 	},
 	{
 		"abr": "artefactd'impulsioncalmante",
 		"price": 1000,
-		"category": "Artéfacts",
+		"category": "ArtÃ©facts",
 		"defname": "PsychicSoothePulser"
 	},
 	{
@@ -93,7 +93,7 @@
 	{
 		"abr": "baies",
 		"price": 2,
-		"category": "Végétaux",
+		"category": "VÃ©gÃ©taux",
 		"defname": "RawBerries"
 	},
 	{
@@ -111,11 +111,11 @@
 	{
 		"abr": "batterie",
 		"price": 333,
-		"category": "Énergie",
+		"category": "Ã‰nergie",
 		"defname": "Battery"
 	},
 	{
-		"abr": "bière",
+		"abr": "biÃ¨re",
 		"price": 20,
 		"category": "Drogues",
 		"defname": "Beer"
@@ -151,7 +151,7 @@
 		"defname": "BlocksGranite"
 	},
 	{
-		"abr": "blocdegrès",
+		"abr": "blocdegrÃ¨s",
 		"price": 2,
 		"category": "Blocs de pierre",
 		"defname": "BlocksSandstone"
@@ -181,9 +181,9 @@
 		"defname": "Boomalope"
 	},
 	{
-		"abr": "bouclierd'énergie",
+		"abr": "bouclierd'Ã©nergie",
 		"price": 650,
-		"category": "Vêtements",
+		"category": "VÃªtements",
 		"defname": "Apparel_ShieldBelt"
 	},
 	{
@@ -211,7 +211,7 @@
 		"defname": "BionicArm"
 	},
 	{
-		"abr": "caisseàoutils",
+		"abr": "caisseÃ outils",
 		"price": 642,
 		"category": "Divers",
 		"defname": "ToolCabinet"
@@ -225,13 +225,13 @@
 	{
 		"abr": "carabinedesurvie",
 		"price": 425,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_BoltActionRifle"
 	},
 	{
-		"abr": "carbu-réacteurinfini",
+		"abr": "carbu-rÃ©acteurinfini",
 		"price": 2500,
-		"category": "Spécial",
+		"category": "SpÃ©cial",
 		"defname": "InfiniteChemreactor"
 	},
 	{
@@ -247,7 +247,7 @@
 		"defname": "Cassowary"
 	},
 	{
-		"abr": "casqueavancé",
+		"abr": "casqueavancÃ©",
 		"price": 442,
 		"category": "Couvre-chefs",
 		"defname": "Apparel_AdvancedHelmet"
@@ -265,9 +265,9 @@
 		"defname": "Apparel_SimpleHelmet"
 	},
 	{
-		"abr": "ceintureàfumigènes",
+		"abr": "ceintureÃ fumigÃ¨nes",
 		"price": 277,
-		"category": "Vêtements",
+		"category": "VÃªtements",
 		"defname": "Apparel_SmokepopBelt"
 	},
 	{
@@ -291,7 +291,7 @@
 	{
 		"abr": "champignoncru",
 		"price": 2,
-		"category": "Végétaux",
+		"category": "VÃ©gÃ©taux",
 		"defname": "RawFungus"
 	},
 	{
@@ -321,13 +321,13 @@
 	{
 		"abr": "chemfuel",
 		"price": 4,
-		"category": "Produits manufacturés",
+		"category": "Produits manufacturÃ©s",
 		"defname": "Chemfuel"
 	},
 	{
 		"abr": "chemise",
 		"price": 166,
-		"category": "Vêtements",
+		"category": "VÃªtements",
 		"defname": "Apparel_CollarShirt"
 	},
 	{
@@ -361,13 +361,13 @@
 		"defname": "Weapon_GrenadeMolotov"
 	},
 	{
-		"abr": "cœur",
+		"abr": "cÅ“ur",
 		"price": 833,
 		"category": "Naturelles",
 		"defname": "Heart"
 	},
 	{
-		"abr": "cœurbionique",
+		"abr": "cÅ“urbionique",
 		"price": 1383,
 		"category": "Artificielles",
 		"defname": "BionicHeart"
@@ -379,7 +379,7 @@
 		"defname": "Apparel_TribalHeaddress"
 	},
 	{
-		"abr": "colonnevertébralebionique",
+		"abr": "colonnevertÃ©bralebionique",
 		"price": 1717,
 		"category": "Artificielles",
 		"defname": "BionicSpine"
@@ -393,13 +393,13 @@
 	{
 		"abr": "composant",
 		"price": 53,
-		"category": "Produits manufacturés",
+		"category": "Produits manufacturÃ©s",
 		"defname": "ComponentIndustrial"
 	},
 	{
-		"abr": "composantavancé",
+		"abr": "composantavancÃ©",
 		"price": 333,
-		"category": "Produits manufacturés",
+		"category": "Produits manufacturÃ©s",
 		"defname": "ComponentSpacer"
 	},
 	{
@@ -417,7 +417,7 @@
 	{
 		"abr": "couteau",
 		"price": 111,
-		"category": "Armes de mêlée",
+		"category": "Armes de mÃªlÃ©e",
 		"defname": "MeleeWeapon_Knife"
 	},
 	{
@@ -445,19 +445,19 @@
 		"defname": "Leather_Pig"
 	},
 	{
-		"abr": "cuirdelézard",
+		"abr": "cuirdelÃ©zard",
 		"price": 3,
 		"category": "Cuirs",
 		"defname": "Leather_Lizard"
 	},
 	{
-		"abr": "cuirderhinocéros",
+		"abr": "cuirderhinocÃ©ros",
 		"price": 7,
 		"category": "Cuirs",
 		"defname": "Leather_Rhinoceros"
 	},
 	{
-		"abr": "cuird'éléphant",
+		"abr": "cuird'Ã©lÃ©phant",
 		"price": 5,
 		"category": "Cuirs",
 		"defname": "Leather_Elephant"
@@ -475,25 +475,25 @@
 		"defname": "Leather_Light"
 	},
 	{
-		"abr": "cuisinièreàbois",
+		"abr": "cuisiniÃ¨reÃ bois",
 		"price": 265,
 		"category": "Production",
 		"defname": "FueledStove"
 	},
 	{
-		"abr": "cuisinièreélectrique",
+		"abr": "cuisiniÃ¨reÃ©lectrique",
 		"price": 375,
 		"category": "Production",
 		"defname": "ElectricStove"
 	},
 	{
-		"abr": "défensed'éléphant",
+		"abr": "dÃ©fensed'Ã©lÃ©phant",
 		"price": 133,
 		"category": "Objets",
 		"defname": "ElephantTusk"
 	},
 	{
-		"abr": "diabétoffe",
+		"abr": "diabÃ©toffe",
 		"price": 9,
 		"category": "Textiles",
 		"defname": "DevilstrandCloth"
@@ -511,33 +511,33 @@
 		"defname": "Dromedary"
 	},
 	{
-		"abr": "écureuil",
+		"abr": "Ã©cureuil",
 		"price": 58,
 		"category": "Animal",
 		"defname": "Squirrel"
 	},
 	{
-		"abr": "éléphant",
+		"abr": "Ã©lÃ©phant",
 		"price": 1000,
 		"category": "Animal",
 		"defname": "Elephant"
 	},
 	{
-		"abr": "émanateurpsychique",
+		"abr": "Ã©manateurpsychique",
 		"price": 2167,
-		"category": "Spécial",
+		"category": "SpÃ©cial",
 		"defname": "PsychicEmanator"
 	},
 	{
-		"abr": "émeu",
+		"abr": "Ã©meu",
 		"price": 333,
 		"category": "Animal",
 		"defname": "Emu"
 	},
 	{
-		"abr": "épéelongue",
+		"abr": "Ã©pÃ©elongue",
 		"price": 442,
-		"category": "Armes de mêlée",
+		"category": "Armes de mÃªlÃ©e",
 		"defname": "MeleeWeapon_LongSword"
 	},
 	{
@@ -547,67 +547,67 @@
 		"defname": "BionicStomach"
 	},
 	{
-		"abr": "établid'assemblage",
+		"abr": "Ã©tablid'assemblage",
 		"price": 758,
 		"category": "Production",
 		"defname": "TableMachining"
 	},
 	{
-		"abr": "établideboucher",
+		"abr": "Ã©tablideboucher",
 		"price": 302,
 		"category": "Production",
 		"defname": "TableButcher"
 	},
 	{
-		"abr": "établidebrassage",
+		"abr": "Ã©tablidebrassage",
 		"price": 350,
 		"category": "Production",
 		"defname": "Brewery"
 	},
 	{
-		"abr": "établideforgeronàcombustible",
+		"abr": "Ã©tablideforgeronÃ combustible",
 		"price": 333,
 		"category": "Production",
 		"defname": "FueledSmithy"
 	},
 	{
-		"abr": "établideforgeronélectrique",
+		"abr": "Ã©tablideforgeronÃ©lectrique",
 		"price": 492,
 		"category": "Production",
 		"defname": "ElectricSmithy"
 	},
 	{
-		"abr": "établidesculpture",
+		"abr": "Ã©tablidesculpture",
 		"price": 425,
 		"category": "Production",
 		"defname": "TableSculpting"
 	},
 	{
-		"abr": "établidetailleurdepierre",
+		"abr": "Ã©tablidetailleurdepierre",
 		"price": 358,
 		"category": "Production",
 		"defname": "TableStonecutter"
 	},
 	{
-		"abr": "établidetissageélectrique",
+		"abr": "Ã©tablidetissageÃ©lectrique",
 		"price": 533,
 		"category": "Production",
 		"defname": "ElectricTailoringBench"
 	},
 	{
-		"abr": "établidetissagemanuel",
+		"abr": "Ã©tablidetissagemanuel",
 		"price": 262,
 		"category": "Production",
 		"defname": "HandTailoringBench"
 	},
 	{
-		"abr": "étagère",
+		"abr": "Ã©tagÃ¨re",
 		"price": 104,
 		"category": "Fourniture",
 		"defname": "Shelf"
 	},
 	{
-		"abr": "extincteuràmousse",
+		"abr": "extincteurÃ mousse",
 		"price": 300,
 		"category": "Divers",
 		"defname": "FirefoamPopper"
@@ -631,15 +631,15 @@
 		"defname": "FertilityBooster"
 	},
 	{
-		"abr": "feuillesdepsychoïde",
+		"abr": "feuillesdepsychoÃ¯de",
 		"price": 3,
-		"category": "Matières végétales",
+		"category": "MatiÃ¨res vÃ©gÃ©tales",
 		"defname": "PsychoidLeaves"
 	},
 	{
 		"abr": "feuillesdesmokeleaf",
 		"price": 3,
-		"category": "Matières végétales",
+		"category": "MatiÃ¨res vÃ©gÃ©tales",
 		"defname": "SmokeleafLeaves"
 	},
 	{
@@ -649,9 +649,9 @@
 		"defname": "Flake"
 	},
 	{
-		"abr": "focalisateurdefaisceaud'énergieorbital",
+		"abr": "focalisateurdefaisceaud'Ã©nergieorbital",
 		"price": 2000,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
 	{
@@ -667,7 +667,7 @@
 		"defname": "Hay"
 	},
 	{
-		"abr": "fonderieélectrique",
+		"abr": "fonderieÃ©lectrique",
 		"price": 667,
 		"category": "Production",
 		"defname": "ElectricSmelter"
@@ -703,7 +703,7 @@
 		"defname": "Leather_Wolf"
 	},
 	{
-		"abr": "fourruredepanthère",
+		"abr": "fourruredepanthÃ¨re",
 		"price": 5,
 		"category": "Cuirs",
 		"defname": "Leather_Panthera"
@@ -727,7 +727,7 @@
 		"defname": "Leather_Bear"
 	},
 	{
-		"abr": "fourrureépaisse",
+		"abr": "fourrureÃ©paisse",
 		"price": 6,
 		"category": "Cuirs",
 		"defname": "Leather_Heavy"
@@ -735,37 +735,37 @@
 	{
 		"abr": "fruitd'agave",
 		"price": 2,
-		"category": "Végétaux",
+		"category": "VÃ©gÃ©taux",
 		"defname": "RawAgave"
 	},
 	{
-		"abr": "fusilàimpulsion",
+		"abr": "fusilÃ impulsion",
 		"price": 1683,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_ChargeRifle"
 	},
 	{
-		"abr": "fusilàpompe",
+		"abr": "fusilÃ pompe",
 		"price": 425,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_PumpShotgun"
 	},
 	{
-		"abr": "fusilàpompeautomatique",
+		"abr": "fusilÃ pompeautomatique",
 		"price": 675,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_ChainShotgun"
 	},
 	{
 		"abr": "fusild'assaut",
 		"price": 800,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_AssaultRifle"
 	},
 	{
-		"abr": "fusildeprécision",
+		"abr": "fusildeprÃ©cision",
 		"price": 883,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_SniperRifle"
 	},
 	{
@@ -775,33 +775,33 @@
 		"defname": "Gazelle"
 	},
 	{
-		"abr": "geléed'insecte",
+		"abr": "gelÃ©ed'insecte",
 		"price": 13,
 		"category": "Produits animaliers",
 		"defname": "InsectJelly"
 	},
 	{
-		"abr": "générateurdetornade",
+		"abr": "gÃ©nÃ©rateurdetornade",
 		"price": 1333,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "TornadoGenerator"
 	},
 	{
 		"abr": "giletpare-balles",
 		"price": 375,
-		"category": "Vêtements",
+		"category": "VÃªtements",
 		"defname": "Apparel_FlakVest"
 	},
 	{
 		"abr": "glaive",
 		"price": 215,
-		"category": "Armes de mêlée",
+		"category": "Armes de mÃªlÃ©e",
 		"defname": "MeleeWeapon_Gladius"
 	},
 	{
 		"abr": "glumelumineuse",
 		"price": 83,
-		"category": "Spécial",
+		"category": "SpÃ©cial",
 		"defname": "GlowPod"
 	},
 	{
@@ -817,7 +817,7 @@
 		"defname": "SculptureLarge"
 	},
 	{
-		"abr": "grenadeàfragmentation",
+		"abr": "grenadeÃ fragmentation",
 		"price": 442,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeFrag"
@@ -829,7 +829,7 @@
 		"defname": "Weapon_GrenadeEMP"
 	},
 	{
-		"abr": "griffeénergétique",
+		"abr": "griffeÃ©nergÃ©tique",
 		"price": 2000,
 		"category": "Artificielles",
 		"defname": "PowerClaw"
@@ -843,19 +843,19 @@
 	{
 		"abr": "guenilledesauvage",
 		"price": 211,
-		"category": "Vêtements",
+		"category": "VÃªtements",
 		"defname": "Apparel_TribalA"
 	},
 	{
-		"abr": "herbesmédicinales",
+		"abr": "herbesmÃ©dicinales",
 		"price": 17,
-		"category": "Médicaments",
+		"category": "MÃ©dicaments",
 		"defname": "MedicineHerbal"
 	},
 	{
 		"abr": "houblon",
 		"price": 2,
-		"category": "Matières végétales",
+		"category": "MatiÃ¨res vÃ©gÃ©tales",
 		"defname": "RawHops"
 	},
 	{
@@ -885,11 +885,11 @@
 	{
 		"abr": "ikwa",
 		"price": 197,
-		"category": "Armes de mêlée",
+		"category": "Armes de mÃªlÃ©e",
 		"defname": "MeleeWeapon_Ikwa"
 	},
 	{
-		"abr": "implantanalgésique",
+		"abr": "implantanalgÃ©sique",
 		"price": 1333,
 		"category": "Artificielles",
 		"defname": "Painstopper"
@@ -921,7 +921,7 @@
 	{
 		"abr": "jeudulancerdecailloux",
 		"price": 67,
-		"category": "Détente",
+		"category": "DÃ©tente",
 		"defname": "HoopstoneRing"
 	},
 	{
@@ -949,7 +949,7 @@
 		"defname": "WoolAlpaca"
 	},
 	{
-		"abr": "lainedemégathérium",
+		"abr": "lainedemÃ©gathÃ©rium",
 		"price": 4,
 		"category": "Textiles",
 		"defname": "WoolMegasloth"
@@ -999,41 +999,41 @@
 	{
 		"abr": "lance",
 		"price": 322,
-		"category": "Armes de mêlée",
+		"category": "Armes de mÃªlÃ©e",
 		"defname": "MeleeWeapon_Spear"
 	},
 	{
 		"abr": "lance-charges",
 		"price": 2258,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_ChargeLance"
 	},
 	{
 		"abr": "lance-roquettesapocalyptique",
 		"price": 1667,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_DoomsdayRocket"
 	},
 	{
 		"abr": "lance-roquettestriple",
 		"price": 1667,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_TripleRocket"
 	},
 	{
 		"abr": "lanceurdeballesincendiaires",
 		"price": 508,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_IncendiaryLauncher"
 	},
 	{
-		"abr": "lièvre",
+		"abr": "liÃ¨vre",
 		"price": 83,
 		"category": "Animal",
 		"defname": "Hare"
 	},
 	{
-		"abr": "lièvredesneiges",
+		"abr": "liÃ¨vredesneiges",
 		"price": 83,
 		"category": "Animal",
 		"defname": "Snowhare"
@@ -1051,7 +1051,7 @@
 		"defname": "DoubleBed"
 	},
 	{
-		"abr": "litmédicalisé",
+		"abr": "litmÃ©dicalisÃ©",
 		"price": 667,
 		"category": "Fourniture",
 		"defname": "HospitalBed"
@@ -1093,15 +1093,15 @@
 		"defname": "Lynx"
 	},
 	{
-		"abr": "maïs",
+		"abr": "maÃ¯s",
 		"price": 2,
-		"category": "Végétaux",
+		"category": "VÃ©gÃ©taux",
 		"defname": "RawCorn"
 	},
 	{
 		"abr": "manteau",
 		"price": 327,
-		"category": "Vêtements",
+		"category": "VÃªtements",
 		"defname": "Apparel_Duster"
 	},
 	{
@@ -1113,59 +1113,59 @@
 	{
 		"abr": "masse",
 		"price": 203,
-		"category": "Armes de mêlée",
+		"category": "Armes de mÃªlÃ©e",
 		"defname": "MeleeWeapon_Mace"
 	},
 	{
 		"abr": "massue",
 		"price": 141,
-		"category": "Armes de mêlée",
+		"category": "Armes de mÃªlÃ©e",
 		"defname": "MeleeWeapon_Club"
 	},
 	{
-		"abr": "mech-sérumderésurrection",
+		"abr": "mech-sÃ©rumderÃ©surrection",
 		"price": 2833,
 		"category": "Objets",
 		"defname": "MechSerumResurrector"
 	},
 	{
-		"abr": "mech-sérumguérisseur",
+		"abr": "mech-sÃ©rumguÃ©risseur",
 		"price": 2167,
 		"category": "Objets",
 		"defname": "MechSerumHealer"
 	},
 	{
-		"abr": "mech-sérumneuro-entraîneur",
+		"abr": "mech-sÃ©rumneuro-entraÃ®neur",
 		"price": 1250,
 		"category": "Objets",
 		"defname": "MechSerumNeurotrainer"
 	},
 	{
-		"abr": "médicaments",
+		"abr": "mÃ©dicaments",
 		"price": 30,
-		"category": "Médicaments",
+		"category": "MÃ©dicaments",
 		"defname": "MedicineIndustrial"
 	},
 	{
-		"abr": "médicamentsavancés",
+		"abr": "mÃ©dicamentsavancÃ©s",
 		"price": 83,
-		"category": "Médicaments",
+		"category": "MÃ©dicaments",
 		"defname": "MedicineUltratech"
 	},
 	{
-		"abr": "mégaraignée",
+		"abr": "mÃ©garaignÃ©e",
 		"price": 833,
 		"category": "Animal",
 		"defname": "Megaspider"
 	},
 	{
-		"abr": "mégascarabée",
+		"abr": "mÃ©gascarabÃ©e",
 		"price": 167,
 		"category": "Animal",
 		"defname": "Megascarab"
 	},
 	{
-		"abr": "mégathérium",
+		"abr": "mÃ©gathÃ©rium",
 		"price": 1167,
 		"category": "Animal",
 		"defname": "Megasloth"
@@ -1173,25 +1173,25 @@
 	{
 		"abr": "minigun",
 		"price": 1933,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_Minigun"
 	},
 	{
 		"abr": "mini-tourelle",
 		"price": 508,
-		"category": "Sécurité",
+		"category": "SÃ©curitÃ©",
 		"defname": "Turret_MiniTurret"
 	},
 	{
-		"abr": "mitrailleuselégère",
+		"abr": "mitrailleuselÃ©gÃ¨re",
 		"price": 708,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_LMG"
 	},
 	{
 		"abr": "mitrailleuselourde",
 		"price": 592,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_HeavySMG"
 	},
 	{
@@ -1203,13 +1203,13 @@
 	{
 		"abr": "mortier",
 		"price": 708,
-		"category": "Sécurité",
+		"category": "SÃ©curitÃ©",
 		"defname": "Turret_Mortar"
 	},
 	{
-		"abr": "moût",
+		"abr": "moÃ»t",
 		"price": 4,
-		"category": "Produits manufacturés",
+		"category": "Produits manufacturÃ©s",
 		"defname": "Wort"
 	},
 	{
@@ -1227,23 +1227,23 @@
 	{
 		"abr": "neutroamine",
 		"price": 10,
-		"category": "Produits manufacturés",
+		"category": "Produits manufacturÃ©s",
 		"defname": "Neutroamine"
 	},
 	{
-		"abr": "noyauiadepersonnalité",
+		"abr": "noyauiadepersonnalitÃ©",
 		"price": 6667,
 		"category": "Objets",
 		"defname": "AIPersonaCore"
 	},
 	{
-		"abr": "noyauiapédagogique",
+		"abr": "noyauiapÃ©dagogique",
 		"price": 1667,
 		"category": "Objets",
 		"defname": "TechprofSubpersonaCore"
 	},
 	{
-		"abr": "obusàimpulsionélectromagnétique",
+		"abr": "obusÃ impulsionÃ©lectromagnÃ©tique",
 		"price": 92,
 		"category": "Obus de mortier",
 		"defname": "Shell_EMP"
@@ -1267,73 +1267,73 @@
 		"defname": "Shell_Incendiary"
 	},
 	{
-		"abr": "œilarchotech",
+		"abr": "Å“ilarchotech",
 		"price": 4667,
 		"category": "Artificielles",
 		"defname": "ArchotechEye"
 	},
 	{
-		"abr": "œilbionique",
+		"abr": "Å“ilbionique",
 		"price": 1708,
 		"category": "Artificielles",
 		"defname": "BionicEye"
 	},
 	{
-		"abr": "œufd'autruche(fécondé)",
+		"abr": "Å“ufd'autruche(fÃ©condÃ©)",
 		"price": 38,
-		"category": "Œufs (fécondés)",
+		"category": "Å’ufs (fÃ©condÃ©s)",
 		"defname": "EggOstrichFertilized"
 	},
 	{
-		"abr": "œufdecasoar(fécondé)",
+		"abr": "Å“ufdecasoar(fÃ©condÃ©)",
 		"price": 32,
-		"category": "Œufs (fécondés)",
+		"category": "Å’ufs (fÃ©condÃ©s)",
 		"defname": "EggCassowaryFertilized"
 	},
 	{
-		"abr": "œufdecobra(fécondé)",
+		"abr": "Å“ufdecobra(fÃ©condÃ©)",
 		"price": 67,
-		"category": "Œufs (fécondés)",
+		"category": "Å’ufs (fÃ©condÃ©s)",
 		"defname": "EggCobraFertilized"
 	},
 	{
-		"abr": "œufdedinde(fécondé)",
+		"abr": "Å“ufdedinde(fÃ©condÃ©)",
 		"price": 18,
-		"category": "Œufs (fécondés)",
+		"category": "Å’ufs (fÃ©condÃ©s)",
 		"defname": "EggTurkeyFertilized"
 	},
 	{
-		"abr": "œufdepoule(fécondé)",
+		"abr": "Å“ufdepoule(fÃ©condÃ©)",
 		"price": 12,
-		"category": "Œufs (fécondés)",
+		"category": "Å’ufs (fÃ©condÃ©s)",
 		"defname": "EggChickenFertilized"
 	},
 	{
-		"abr": "œufdepoule(nonfécondé)",
+		"abr": "Å“ufdepoule(nonfÃ©condÃ©)",
 		"price": 12,
-		"category": "Œufs (non fécondés)",
+		"category": "Å’ufs (non fÃ©condÃ©s)",
 		"defname": "EggChickenUnfertilized"
 	},
 	{
-		"abr": "œufdetortue(fécondé)",
+		"abr": "Å“ufdetortue(fÃ©condÃ©)",
 		"price": 38,
-		"category": "Œufs (fécondés)",
+		"category": "Å’ufs (fÃ©condÃ©s)",
 		"defname": "EggTortoiseFertilized"
 	},
 	{
-		"abr": "œufd'émeu(fécondé)",
+		"abr": "Å“ufd'Ã©meu(fÃ©condÃ©)",
 		"price": 30,
-		"category": "Œufs (fécondés)",
+		"category": "Å’ufs (fÃ©condÃ©s)",
 		"defname": "EggEmuFertilized"
 	},
 	{
-		"abr": "œufd'iguane(fécondé)",
+		"abr": "Å“ufd'iguane(fÃ©condÃ©)",
 		"price": 42,
-		"category": "Œufs (fécondés)",
+		"category": "Å’ufs (fÃ©condÃ©s)",
 		"defname": "EggIguanaFertilized"
 	},
 	{
-		"abr": "ogiveàantimatière",
+		"abr": "ogiveÃ antimatiÃ¨re",
 		"price": 2000,
 		"category": "Obus de mortier",
 		"defname": "Shell_AntigrainWarhead"
@@ -1359,17 +1359,17 @@
 	{
 		"abr": "pantalon",
 		"price": 143,
-		"category": "Vêtements",
+		"category": "VÃªtements",
 		"defname": "Apparel_Pants"
 	},
 	{
-		"abr": "pantalonrenforcé",
+		"abr": "pantalonrenforcÃ©",
 		"price": 375,
-		"category": "Vêtements",
+		"category": "VÃªtements",
 		"defname": "Apparel_FlakPants"
 	},
 	{
-		"abr": "panthère",
+		"abr": "panthÃ¨re",
 		"price": 667,
 		"category": "Animal",
 		"defname": "Panther"
@@ -1377,7 +1377,7 @@
 	{
 		"abr": "parka",
 		"price": 315,
-		"category": "Vêtements",
+		"category": "VÃªtements",
 		"defname": "Apparel_Parka"
 	},
 	{
@@ -1387,7 +1387,7 @@
 		"defname": "Leather_Patch"
 	},
 	{
-		"abr": "pâtenutritive",
+		"abr": "pÃ¢tenutritive",
 		"price": 17,
 		"category": "Plats",
 		"defname": "MealNutrientPaste"
@@ -1417,69 +1417,69 @@
 		"defname": "SculptureSmall"
 	},
 	{
-		"abr": "piègeàantimatièreimprovisé",
+		"abr": "piÃ¨geÃ antimatiÃ¨reimprovisÃ©",
 		"price": 2008,
-		"category": "Sécurité",
+		"category": "SÃ©curitÃ©",
 		"defname": "TrapIED_AntigrainWarhead"
 	},
 	{
-		"abr": "piègeàpointes",
+		"abr": "piÃ¨geÃ pointes",
 		"price": 136,
-		"category": "Sécurité",
+		"category": "SÃ©curitÃ©",
 		"defname": "TrapSpike"
 	},
 	{
-		"abr": "piègeanti-incendieimprovisé",
+		"abr": "piÃ¨geanti-incendieimprovisÃ©",
 		"price": 192,
-		"category": "Sécurité",
+		"category": "SÃ©curitÃ©",
 		"defname": "TrapIED_Firefoam"
 	},
 	{
-		"abr": "piègeempimprovisé",
+		"abr": "piÃ¨geempimprovisÃ©",
 		"price": 192,
-		"category": "Sécurité",
+		"category": "SÃ©curitÃ©",
 		"defname": "TrapIED_EMP"
 	},
 	{
-		"abr": "piègeexplosifimprovisé",
+		"abr": "piÃ¨geexplosifimprovisÃ©",
 		"price": 192,
-		"category": "Sécurité",
+		"category": "SÃ©curitÃ©",
 		"defname": "TrapIED_HighExplosive"
 	},
 	{
-		"abr": "piègeincendiaireimprovisé",
+		"abr": "piÃ¨geincendiaireimprovisÃ©",
 		"price": 192,
-		"category": "Sécurité",
+		"category": "SÃ©curitÃ©",
 		"defname": "TrapIED_Incendiary"
 	},
 	{
 		"abr": "pila",
 		"price": 182,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Pila"
 	},
 	{
-		"abr": "pilevanométrique",
+		"abr": "pilevanomÃ©trique",
 		"price": 2000,
-		"category": "Spécial",
+		"category": "SpÃ©cial",
 		"defname": "VanometricPowerCell"
 	},
 	{
-		"abr": "piquetdeferàcheval",
+		"abr": "piquetdeferÃ cheval",
 		"price": 34,
-		"category": "Détente",
+		"category": "DÃ©tente",
 		"defname": "HorseshoesPin"
 	},
 	{
 		"abr": "pistoletautomatique",
 		"price": 232,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_Autopistol"
 	},
 	{
 		"abr": "pistolet-mitrailleur",
 		"price": 367,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_MachinePistol"
 	},
 	{
@@ -1495,7 +1495,7 @@
 		"defname": "MealLavish"
 	},
 	{
-		"abr": "platraffiné",
+		"abr": "platraffinÃ©",
 		"price": 33,
 		"category": "Plats",
 		"defname": "MealFine"
@@ -1521,7 +1521,7 @@
 	{
 		"abr": "pommesdeterre",
 		"price": 2,
-		"category": "Végétaux",
+		"category": "VÃ©gÃ©taux",
 		"defname": "RawPotatoes"
 	},
 	{
@@ -1555,25 +1555,25 @@
 		"defname": "PregnancyTest"
 	},
 	{
-		"abr": "prothèseauditive",
+		"abr": "prothÃ¨seauditive",
 		"price": 342,
 		"category": "Artificielles",
 		"defname": "CochlearImplant"
 	},
 	{
-		"abr": "prothèsecardiaque",
+		"abr": "prothÃ¨secardiaque",
 		"price": 358,
 		"category": "Artificielles",
 		"defname": "SimpleProstheticHeart"
 	},
 	{
-		"abr": "prothèsedebras",
+		"abr": "prothÃ¨sedebras",
 		"price": 408,
 		"category": "Artificielles",
 		"defname": "SimpleProstheticArm"
 	},
 	{
-		"abr": "prothèsedejambe",
+		"abr": "prothÃ¨sedejambe",
 		"price": 408,
 		"category": "Artificielles",
 		"defname": "SimpleProstheticLeg"
@@ -1581,7 +1581,7 @@
 	{
 		"abr": "radiateur",
 		"price": 218,
-		"category": "Température",
+		"category": "TempÃ©rature",
 		"defname": "Heater"
 	},
 	{
@@ -1629,11 +1629,11 @@
 	{
 		"abr": "revolver",
 		"price": 226,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "Gun_Revolver"
 	},
 	{
-		"abr": "rhinocéros",
+		"abr": "rhinocÃ©ros",
 		"price": 1167,
 		"category": "Animal",
 		"defname": "Rhinoceros"
@@ -1641,7 +1641,7 @@
 	{
 		"abr": "riz",
 		"price": 2,
-		"category": "Végétaux",
+		"category": "VÃ©gÃ©taux",
 		"defname": "RawRice"
 	},
 	{
@@ -1681,21 +1681,21 @@
 		"defname": "Monkey"
 	},
 	{
-		"abr": "spélopède",
+		"abr": "spÃ©lopÃ¨de",
 		"price": 333,
 		"category": "Animal",
 		"defname": "Spelopede"
 	},
 	{
-		"abr": "synthé",
+		"abr": "synthÃ©",
 		"price": 7,
 		"category": "Textiles",
 		"defname": "Synthread"
 	},
 	{
-		"abr": "systèmedeviséedebombardementorbital",
+		"abr": "systÃ¨medevisÃ©edebombardementorbital",
 		"price": 2000,
-		"category": "Armes à distance",
+		"category": "Armes Ã  distance",
 		"defname": "OrbitalTargeterBombardment"
 	},
 	{
@@ -1741,7 +1741,7 @@
 		"defname": "PokerTable"
 	},
 	{
-		"abr": "tabled'échecs",
+		"abr": "tabled'Ã©checs",
 		"price": 281,
 		"category": "Fourniture",
 		"defname": "ChessTable"
@@ -1753,31 +1753,31 @@
 		"defname": "Stool"
 	},
 	{
-		"abr": "télescope",
+		"abr": "tÃ©lescope",
 		"price": 583,
-		"category": "Détente",
+		"category": "DÃ©tente",
 		"defname": "Telescope"
 	},
 	{
-		"abr": "télévisionàécrangéant",
+		"abr": "tÃ©lÃ©visionÃ Ã©crangÃ©ant",
 		"price": 2475,
-		"category": "Détente",
+		"category": "DÃ©tente",
 		"defname": "MegascreenTelevision"
 	},
 	{
-		"abr": "télévisionàécranplat",
+		"abr": "tÃ©lÃ©visionÃ Ã©cranplat",
 		"price": 1533,
-		"category": "Détente",
+		"category": "DÃ©tente",
 		"defname": "FlatscreenTelevision"
 	},
 	{
-		"abr": "télévisioncathodique",
+		"abr": "tÃ©lÃ©visioncathodique",
 		"price": 525,
-		"category": "Détente",
+		"category": "DÃ©tente",
 		"defname": "TubeTelevision"
 	},
 	{
-		"abr": "thépekoe",
+		"abr": "thÃ©pekoe",
 		"price": 17,
 		"category": "Drogues",
 		"defname": "PsychiteTea"
@@ -1803,7 +1803,7 @@
 	{
 		"abr": "t-shirt",
 		"price": 143,
-		"category": "Vêtements",
+		"category": "VÃªtements",
 		"defname": "Apparel_BasicShirt"
 	},
 	{
@@ -1821,13 +1821,13 @@
 	{
 		"abr": "veste",
 		"price": 275,
-		"category": "Vêtements",
+		"category": "VÃªtements",
 		"defname": "Apparel_Jacket"
 	},
 	{
-		"abr": "vesterenforcée",
+		"abr": "vesterenforcÃ©e",
 		"price": 483,
-		"category": "Vêtements",
+		"category": "VÃªtements",
 		"defname": "Apparel_FlakJacket"
 	},
 	{
@@ -1843,7 +1843,7 @@
 		"defname": "Meat_Alphabeaver"
 	},
 	{
-		"abr": "viandedebœuf",
+		"abr": "viandedebÅ“uf",
 		"price": 3,
 		"category": "Viandes crues",
 		"defname": "Meat_Cow"
@@ -1933,7 +1933,7 @@
 		"defname": "Meat_LabradorRetriever"
 	},
 	{
-		"abr": "viandedelièvre",
+		"abr": "viandedeliÃ¨vre",
 		"price": 3,
 		"category": "Viandes crues",
 		"defname": "Meat_Hare"
@@ -1951,7 +1951,7 @@
 		"defname": "Meat_Lynx"
 	},
 	{
-		"abr": "viandedemégathérium",
+		"abr": "viandedemÃ©gathÃ©rium",
 		"price": 3,
 		"category": "Viandes crues",
 		"defname": "Meat_Megasloth"
@@ -1963,7 +1963,7 @@
 		"defname": "Meat_Muffalo"
 	},
 	{
-		"abr": "viandedepanthère",
+		"abr": "viandedepanthÃ¨re",
 		"price": 3,
 		"category": "Viandes crues",
 		"defname": "Meat_Panther"
@@ -2005,7 +2005,7 @@
 		"defname": "Meat_Fox_Fennec"
 	},
 	{
-		"abr": "viandederhinocéros",
+		"abr": "viandederhinocÃ©ros",
 		"price": 3,
 		"category": "Viandes crues",
 		"defname": "Meat_Rhinoceros"
@@ -2047,13 +2047,13 @@
 		"defname": "Meat_YorkshireTerrier"
 	},
 	{
-		"abr": "vianded'écureuil",
+		"abr": "vianded'Ã©cureuil",
 		"price": 3,
 		"category": "Viandes crues",
 		"defname": "Meat_Squirrel"
 	},
 	{
-		"abr": "vianded'éléphant",
+		"abr": "vianded'Ã©lÃ©phant",
 		"price": 3,
 		"category": "Viandes crues",
 		"defname": "Meat_Elephant"
@@ -2117,7 +2117,7 @@
 		"price": 167,
 		"category": "Animal",
 		"defname": "YorkshireTerrier"
-	}
+	},
 	],
-	"total": 353
+	"total": 365
 }
